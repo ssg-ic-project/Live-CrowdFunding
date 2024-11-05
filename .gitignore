@@ -175,7 +175,15 @@ test/
 
 node_modules/
 dist/
+.vscode/
+.env
+
 npm-debug.log
 yarn-error.log
+
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
 
 # End of https://www.toptal.com/developers/gitignore/api/java,maven,intellij,vue,vuejs
